@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<palette>
+
+	<block tag="init-local-bool" spec="bool var %0 = %1" code="var #0:Bool = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<bool order="1"></bool>
+		</fields>
+	</block>
+
+	<block tag="get-local-bool" spec="bool %0" code="~" type="normal" color="charcoal" returns="bool">
+		<fields>
+			<text order="0"></text> <!-- code -->
+		</fields>
+	</block>
+
+	<block tag="set-local-bool" spec="bool %0 = %1" code="#0 = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<bool order="1"></bool>
+		</fields>
+	</block>
+	
+	<block tag="init-local-int" spec="int var %0 = %1" code="var #0:Int = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<int order="1"></int>
+		</fields>
+	</block>
+
+	<block tag="get-local-int" spec="int %0" code="~" type="normal" color="charcoal" returns="int">
+		<fields>
+			<text order="0"></text> <!-- code -->
+		</fields>
+	</block>
+
+	<block tag="set-local-int" spec="int %0 = %1" code="#0 = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<int order="1"></int>
+		</fields>
+	</block>
+
+	<block tag="init-local-float" spec="float var %0 = %1" code="var #0:Float = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<float order="1"></float>
+		</fields>
+	</block>
+
+	<block tag="get-local-float" spec="float %0" code="~" type="normal" color="charcoal" returns="float">
+		<fields>
+			<text order="0"></text> <!-- code -->
+		</fields>
+	</block>
+
+	<block tag="set-local-float" spec="float %0 = %1" code="#0 = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<float order="1"></float>
+		</fields>
+	</block>
+
+	<block tag="init-local-string" spec="string var %0 = %1" code="var #0:String = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<text order="1"></text>
+		</fields>
+	</block>
+
+	<block tag="get-local-string" spec="string %0" code="~" type="normal" color="charcoal" returns="text">
+		<fields>
+			<text order="0"></text> <!-- code -->
+		</fields>
+	</block>
+
+	<block tag="set-local-string" spec="string %0 = %1" code="#0 = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<text order="1"></text>
+		</fields>
+	</block>
+
+	<block tag="init-local-list" spec="list var %0 = %1" code="var #0:Array&lt;Dynamic&gt; = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<list order="1"></list>
+		</fields>
+	</block>
+
+	<block tag="get-local-list" spec="list %0" code="~" type="normal" color="charcoal" returns="list">
+		<fields>
+			<text order="0"></text> <!-- code -->
+		</fields>
+	</block>
+
+	<block tag="set-local-list" spec="list %0 = %1" code="#0 = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<list order="1"></list>
+		</fields>
+	</block>
+
+	<block tag="init-local-map" spec="map var %0 = %1" code="var #0:Map&lt;String, Dynamic&gt; = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<map order="1"></map>
+		</fields>
+	</block>
+
+	<block tag="get-local-map" spec="map %0" code="~" type="normal" color="charcoal" returns="map">
+		<fields>
+			<text order="0"></text> <!-- code -->
+		</fields>
+	</block>
+
+	<block tag="set-local-map" spec="map %0 = %1" code="#0 = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<map order="1"></map>
+		</fields>
+	</block>
+</palette>

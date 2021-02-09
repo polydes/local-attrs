@@ -1,0 +1,8 @@
+name=Local Attributes
+description=Provides blocks for working with event-local attributes.
+author=Justin Espedal
+website=http://www.stencyl.com
+version=1.0
+compatibility=all
+dependencies=toolset-com.polydes.blockdefs-0.1.0,stencyl-4.0.2
+repository=http://www.polydes.com/repo

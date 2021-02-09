@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<blocks-enhancements>
+	
+	<block tag="init-local-bool"><fields><code order="0"/></fields></block>
+	<block tag="get-local-bool"><fields><code order="0"/></fields></block>
+	<block tag="set-local-bool"><fields><code order="0"/></fields></block>
+	<block tag="init-local-int"><fields><code order="0"/></fields></block>
+	<block tag="get-local-int"><fields><code order="0"/></fields></block>
+	<block tag="set-local-int"><fields><code order="0"/></fields></block>
+	<block tag="init-local-float"><fields><code order="0"/></fields></block>
+	<block tag="get-local-float"><fields><code order="0"/></fields></block>
+	<block tag="set-local-float"><fields><code order="0"/></fields></block>
+	<block tag="init-local-string"><fields><code order="0"/></fields></block>
+	<block tag="get-local-string"><fields><code order="0"/></fields></block>
+	<block tag="set-local-string"><fields><code order="0"/></fields></block>
+	<block tag="init-local-list"><fields><code order="0"/></fields></block>
+	<block tag="get-local-list"><fields><code order="0"/></fields></block>
+	<block tag="set-local-list"><fields><code order="0"/></fields></block>
+	<block tag="init-local-map"><fields><code order="0"/></fields></block>
+	<block tag="get-local-map"><fields><code order="0"/></fields></block>
+	<block tag="set-local-map"><fields><code order="0"/></fields></block>
+	
+</blocks-enhancements>
