@@ -19,5 +19,8 @@
 	<block tag="init-local-map"><fields><code order="0"/></fields></block>
 	<block tag="get-local-map"><fields><code order="0"/></fields></block>
 	<block tag="set-local-map"><fields><code order="0"/></fields></block>
+	<block tag="init-local-var"><fields><code order="0"/></fields></block>
+	<block tag="get-local-var"><fields><code order="0"/></fields></block>
+	<block tag="set-local-var"><fields><code order="0"/></fields></block>
 	
 </blocks-enhancements>

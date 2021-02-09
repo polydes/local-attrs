@@ -121,4 +121,25 @@
 			<map order="1"></map>
 		</fields>
 	</block>
+	
+	<block tag="init-local-var" spec="var %0 = %1" code="var #0 = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<anything order="1"></anything>
+		</fields>
+	</block>
+
+	<block tag="get-local-var" spec="var %0" code="~" type="normal" color="charcoal" returns="anything">
+		<fields>
+			<text order="0"></text> <!-- code -->
+		</fields>
+	</block>
+
+	<block tag="set-local-var" spec="%0 = %1" code="#0 = #1;" type="action" color="charcoal" returns="void">
+		<fields>
+			<text order="0"></text> <!-- code -->
+			<anything order="1"></anything>
+		</fields>
+	</block>
+	
 </palette>
