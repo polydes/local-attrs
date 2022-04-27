@@ -4,5 +4,5 @@ author=Justin Espedal
 website=http://www.stencyl.com
 version=1.0
 compatibility=all
-dependencies=toolset-com.polydes.blockdefs-0.1.0,stencyl-4.0.2
+dependencies=stencyl-4.1.0
 repository=http://www.polydes.com/repo
