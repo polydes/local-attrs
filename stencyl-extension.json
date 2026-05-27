@@ -1,0 +1,19 @@
+{
+  "group": "com.polydes",
+  "id": "com.polydes.localattrs",
+  "name": "Local Attributes",
+  "description": "Provides blocks for working with event-local attributes.",
+  "tags": ["design-mode"],
+  "type": "game",
+  "author": "Justin Espedal",
+  "website": "https://www.polydes.com/repo/engine/com.polydes.localattrs",
+  "repository": "https://www.polydes.com/repo",
+  "target": "stencyl-4.2.0",
+  "version": "1.2.0",
+
+  "icon": "icon.png",
+
+  "engine": {
+    "compatibility": "all"
+  }
+}
