@@ -2,10 +2,8 @@
   "versions":
   [
     {
-      "date": "02/09/2021",
-      "changes": "Initial version.",
-      "version": "1.0.0",
-      "dependencies": "toolset-com.polydes.blockdefs-0.1.0,stencyl-4.0.2"
+      "version": "1.2.0",
+      "dependencies": "stencyl-4.2.0"
     }
   ]
 }
